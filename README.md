@@ -87,3 +87,14 @@ sudo logger "ROOT ALERT TEST"
 ## 💼 Resume Impact
 
 Built a real-time AWS CloudWatch security monitoring pipeline detecting root-level activity using metric filters and SNS alerts, simulating SOC-based threat detection workflows.
+
+## 📸 Screenshots
+
+### 🚨 CloudWatch Alarm Trigger
+![Alarm](alarm-trigger.png)
+
+### 📊 Metric Filter Detection
+![Metric](metric-filter.png)
+
+### 📧 SNS Email Alert
+![Email](email-alert.png)
